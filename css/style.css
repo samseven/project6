@@ -491,6 +491,7 @@ margin-right: 10px;
 .contact-me-form textarea
 {
     width: 100%;
+    padding: 1px;
     height: 150px;
     outline: none;
     background-color: #ccc;
